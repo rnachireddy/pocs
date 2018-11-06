@@ -1,0 +1,42 @@
+INFO  [Service Thread] 2018-11-01 17:51:48,819  GCInspector.java:284 - G1 Young Generation GC in 379ms.  G1 Eden Space: 33319550976 -> 0; G1 Old Gen: 24098732768 -> 24184367736; G1 Survivor Space: 1040187392 -> 939524096; 
+INFO  [Service Thread] 2018-11-01 17:51:48,819  GCInspector.java:284 - G1 Young Generation GC in 379ms.  G1 Eden Space: 33319550976 -> 0; G1 Old Gen: 24098732768 -> 24184367736; G1 Survivor Space: 1040187392 -> 939524096; 
+INFO  [Service Thread] 2018-11-01 17:51:48,819  GCInspector.java:284 - G1 Young Generation GC in 379ms.  G1 Eden Space: 33319550976 -> 0; G1 Old Gen: 24098732768 -> 24184367736; G1 Survivor Space: 1040187392 -> 939524096; 
+INFO  [Service Thread] 2018-11-01 17:51:48,819  GCInspector.java:284 - G1 Young Generation GC in 379ms.  G1 Eden Space: 33319550976 -> 0; G1 Old Gen: 24098732768 -> 24184367736; G1 Survivor Space: 1040187392 -> 939524096; 
+INFO  [Service Thread] 2018-11-01 17:51:48,819  GCInspector.java:284 - G1 Young Generation GC in 379ms.  G1 Eden Space: 33319550976 -> 0; G1 Old Gen: 24098732768 -> 24184367736; G1 Survivor Space: 1040187392 -> 939524096; 
+INFO  [Service Thread] 2018-11-01 17:51:48,819  GCInspector.java:284 - G1 Young Generation GC in 379ms.  G1 Eden Space: 33319550976 -> 0; G1 Old Gen: 24098732768 -> 24184367736; G1 Survivor Space: 1040187392 -> 939524096; 
+INFO  [Service Thread] 2018-11-01 17:51:48,819  GCInspector.java:284 - G1 Young Generation GC in 379ms.  G1 Eden Space: 33319550976 -> 0; G1 Old Gen: 24098732768 -> 24184367736; G1 Survivor Space: 1040187392 -> 939524096; 
+INFO  [Service Thread] 2018-11-01 17:51:48,819  GCInspector.java:284 - G1 Young Generation GC in 379ms.  G1 Eden Space: 33319550976 -> 0; G1 Old Gen: 24098732768 -> 24184367736; G1 Survivor Space: 1040187392 -> 939524096; 
+INFO  [Service Thread] 2018-11-01 17:51:48,819  GCInspector.java:284 - G1 Young Generation GC in 379ms.  G1 Eden Space: 33319550976 -> 0; G1 Old Gen: 24098732768 -> 24184367736; G1 Survivor Space: 1040187392 -> 939524096; 
+INFO  [Service Thread] 2018-11-01 17:51:48,819  GCInspector.java:284 - G1 Young Generation GC in 379ms.  G1 Eden Space: 33319550976 -> 0; G1 Old Gen: 24098732768 -> 24184367736; G1 Survivor Space: 1040187392 -> 939524096; 
+WARN [SlabPoolCleaner] 2018-11-01 17:48:47,754  ColumnFamilyStore.java:893 - Enqueuing flush of customer_pmt: 303331063 (2%) on-heap, 0 (0%) off-heap
+WARN [SlabPoolCleaner] 2018-11-01 17:48:47,754  ColumnFamilyStore.java:893 - Enqueuing flush of customer_pmt: 303331063 (2%) on-heap, 0 (0%) off-heap
+WARN [SlabPoolCleaner] 2018-11-01 17:48:47,754  ColumnFamilyStore.java:893 - Enqueuing flush of customer_pmt: 303331063 (2%) on-heap, 0 (0%) off-heap
+WARN [SlabPoolCleaner] 2018-11-01 17:48:47,754  ColumnFamilyStore.java:893 - Enqueuing flush of customer_pmt: 303331063 (2%) on-heap, 0 (0%) off-heap
+ERROR [SlabPoolCleaner] 2018-11-01 17:48:47,754  ColumnFamilyStore.java:893 - Enqueuing flush of customer_pmt: 303331063 (2%) on-heap, 0 (0%) off-heap
+ERROR [SlabPoolCleaner] 2018-11-01 17:48:47,754  ColumnFamilyStore.java:893 - Enqueuing flush of customer_pmt: 303331063 (2%) on-heap, 0 (0%) off-heap
+ERROR [SlabPoolCleaner] 2018-11-01 17:48:47,754  ColumnFamilyStore.java:893 - Enqueuing flush of customer_pmt: 303331063 (2%) on-heap, 0 (0%) off-heap
+WARN [COMMIT-LOG-ALLOCATOR] 2018-11-01 16:40:47,572  ColumnFamilyStore.java:893 - Enqueuing flush of install_dvc_ord_hist: 7979181 (0%) on-heap, 0 (0%) off-heap
+WARN [COMMIT-LOG-ALLOCATOR] 2018-11-01 16:40:47,572  ColumnFamilyStore.java:893 - Enqueuing flush of install_dvc_ord_hist: 7979181 (0%) on-heap, 0 (0%) off-heap
+WARN [COMMIT-LOG-ALLOCATOR] 2018-11-01 16:40:47,572  ColumnFamilyStore.java:893 - Enqueuing flush of install_dvc_ord_hist: 7979181 (0%) on-heap, 0 (0%) off-heap
+ERROR [COMMIT-LOG-ALLOCATOR] 2018-11-01 16:40:47,572  ColumnFamilyStore.java:893 - Enqueuing flush of install_dvc_ord_hist: 7979181 (0%) on-heap, 0 (0%) off-heap
+ERROR [COMMIT-LOG-ALLOCATOR] 2018-11-01 16:40:47,572  ColumnFamilyStore.java:893 - Enqueuing flush of install_dvc_ord_hist: 7979181 (0%) on-heap, 0 (0%) off-heap
+ERROR [COMMIT-LOG-ALLOCATOR] 2018-11-01 16:40:47,572  ColumnFamilyStore.java:893 - Enqueuing flush of install_dvc_ord_hist: 7979181 (0%) on-heap, 0 (0%) off-heap
+WARN [COMMIT-LOG-ALLOCATOR] 2018-11-01 16:40:47,572  ColumnFamilyStore.java:893 - Enqueuing flush of install_dvc_ord_hist: 7979181 (0%) on-heap, 0 (0%) off-heap
+WARN  [ScheduledTasks:1] 2018-11-01 16:39:25,768  QueryProcessor.java:141 - Enqueuing flush of customer_pmt: 303331063 (2%) on-heap, 0 (0%) off-heap
+WARN  [ScheduledTasks:1] 2018-11-01 16:39:25,768  QueryProcessor.java:141 - Enqueuing flush of customer_pmt: 303331063 (2%) on-heap, 0 (0%) off-heap
+WARN  [ScheduledTasks:1] 2018-11-01 16:39:25,768  QueryProcessor.java:141 - Enqueuing flush of customer_pmt: 303331063 (2%) on-heap, 0 (0%) off-heap
+WARN  [ScheduledTasks:1] 2018-11-01 16:39:25,768  QueryProcessor.java:141 - Enqueuing flush of customer_pmt: 303331063 (2%) on-heap, 0 (0%) off-heap
+ERROR  [ScheduledTasks:1] 2018-11-01 16:39:25,768  QueryProcessor.java:141 - Enqueuing flush of customer_pmt: 303331063 (2%) on-heap, 0 (0%) off-heap
+ERROR  [ScheduledTasks:1] 2018-11-01 16:39:25,768  QueryProcessor.java:141 - Enqueuing flush of customer_pmt: 303331063 (2%) on-heap, 0 (0%) off-heap
+ERROR  [ScheduledTasks:1] 2018-11-01 16:39:25,768  QueryProcessor.java:141 - Enqueuing flush of customer_pmt: 303331063 (2%) on-heap, 0 (0%) off-heap
+WARN  [CompactionExecutor:8] 2018-10-22 14:00:54,653  BigTableWriter.java:171 - Writing large partition aws_or_qa1/cmaf_all:942060984:1:0 (488808900 bytes to sstable /cassandra/data/aws_or_qa1/cmaf_all-d76260b2b13211e8837e9d602768817e/mc-6767-big-Data.db) 
+WARN  [CompactionExecutor:8] 2018-10-22 14:00:54,653  BigTableWriter.java:171 - Writing large partition aws_or_qa1/cmaf_all1:942060984:1:0 (488808900 bytes to sstable /cassandra/data/aws_or_qa1/cmaf_all-d76260b2b13211e8837e9d602768817e/mc-6767-big-Data.db) 
+WARN  [CompactionExecutor:8] 2018-10-22 14:00:54,653  BigTableWriter.java:171 - Writing large partition aws_or_qa1/cmaf_all2:942060984:1:0 (488808900 bytes to sstable /cassandra/data/aws_or_qa1/cmaf_all-d76260b2b13211e8837e9d602768817e/mc-6767-big-Data.db) 
+WARN  [CompactionExecutor:8] 2018-10-22 14:00:54,653  BigTableWriter.java:171 - Writing large partition aws_or_qa1/cmaf_all3:942060984:1:0 (488808900 bytes to sstable /cassandra/data/aws_or_qa1/cmaf_all-d76260b2b13211e8837e9d602768817e/mc-6767-big-Data.db) 
+INFO  [RepairJobTask:5] 2018-10-22 11:32:22,499  SyncTask.java:93 - [repair #89ff8d00-d60f-11e8-9c28-25966d1ef996] Endpoints /10.119.14.80 and /10.119.10.217 are consistent for enterprise_customer 
+INFO  [RepairJobTask:5] 2018-10-22 11:32:22,499  SyncTask.java:93 - [repair #89ff8d00-d60f-11e8-9c29-25966d1ef996] Endpoints /10.119.14.80 and /10.119.10.217 are consistent for enterprise_customer 
+INFO  [RepairJobTask:5] 2018-10-22 11:32:22,499  SyncTask.java:93 - [repair #89ff8d00-d60f-11e8-9c28-25966d1ef996] Endpoints /10.119.14.80 and /10.119.10.217 are consistent for enterprise_customer1 
+INFO  [RepairJobTask:5] 2018-10-22 11:32:22,499  SyncTask.java:93 - [repair #89ff8d00-d60f-11e8-9c28-25966d1ef996] Endpoints /10.119.14.80 and /10.119.10.217 are consistent for enterprise_customer2 
+INFO  [RepairJobTask:5] 2018-10-22 11:32:22,499  SyncTask.java:93 - [repair #89ff8d00-d60f-11e8-9c28-25966d1ef996] Endpoints /10.119.14.80 and /10.119.10.217 are consistent for enterprise_customer3 
+INFO  [RepairJobTask:5] 2018-10-22 11:32:22,499  SyncTask.java:93 - [repair #89ff8d00-d60f-11e8-9c28-25966d1ef996] Endpoints /10.119.14.80 and /10.119.10.217 are consistent for enterprise_customer1 
+INFO  [RepairJobTask:5] 2018-10-22 11:32:22,499  SyncTask.java:93 - [repair #89ff8d00-d60f-11e8-9c28-25966d1ef996] Endpoints /10.119.14.80 and /10.119.10.217 are consistent for enterprise_customer3 
